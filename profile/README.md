@@ -1,3 +1,3 @@
 # We are Bento Robotics, a small-ish school robotics team
 
-We have [a website](https://baulusdev.github.io/robotic-website/) documenting our achievements and ambitions!
+We have [a website](https://bento-robotics.github.io/website/) documenting our achievements and ambitions!
