@@ -35,3 +35,11 @@ We are still learning how to make articulated tracks behave nicely, so Schäufel
 
 To compete at the Robocup RMRC and German open with two robots, Bento-Box and Schäufele, we needed two teams.  
 And to clarify our connection to our school, we rebranded to WLS Robotics, with the sub-teams Willi-Bots (Schäufele) and Team Bento (Bento-Box) both competing.
+
+
+## Our software layout
+
+All of out robots use the same software design.
+We use Docker for everything, where each container essentially runs a master launch file.
+The Mapping group is currently Work-in-progress.
+![](https://raw.githubusercontent.com/Bento-Robotics/.github/refs/heads/main/draw.io/Bento_software_layout.drawio.svg)
