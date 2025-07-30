@@ -14,21 +14,21 @@ It is almost twice as large as the other robots, and won't fit into a RMRC cours
 [Zyklop repository](https://github.com/Bento-Robotics/Zyklop)  
 [Zyklop wiki](https://github.com/Bento-Robotics/Zyklop/wiki)  
 [Zyklop kanban/TODOs](https://github.com/orgs/Bento-Robotics/projects/2)  
-![Zyklop image]()
+<img src="https://raw.githubusercontent.com/Bento-Robotics/Zyklop/refs/heads/main/Zyklop.jpg" height="240">
 
 Iterating on what we learned from Zyklop, we built the Bento-Box.  
 To date this is our most developed robot, with the most features and highest reliability, and champion of the Robocup German open.  
 [Bento-Box repository](https://github.com/Bento-Robotics/Bento-Box)  
 [Bento-Box wiki](https://github.com/Bento-Robotics/Bento-Box/wiki)  
 [Bento-Box kanban/TODOs](https://github.com/orgs/Bento-Robotics/projects/1)  
-![Bento-Box image]()
+<img src="https://raw.githubusercontent.com/Bento-Robotics/Bento-Box/refs/heads/main/Bento-Box.jpg" height="240">
 
 However, Bento-Box really struggles at climbing ledges and stairs. As EduArt offered us new hardware, we decided to try out a flipper-based robot, naming it Schäufele.  
 We are still learning how to make articulated tracks behave nicely, so Schäufele can be difficult at times. But preliminary results are very promising.  
 [Schäufele repository](https://github.com/Bento-Robotics/Schaeufele)  
 [Schäufele wiki](https://github.com/Bento-Robotics/Schaeufele/wiki)  
 [Schäufele kanban/TODOs](https://github.com/orgs/Bento-Robotics/projects/3)  
-![Schäufele image]()
+<img src="https://raw.githubusercontent.com/Bento-Robotics/Schaeufele/refs/heads/main/Schaeufele.jpg" height="240">
 
 
 ## What happened to team Bento?
