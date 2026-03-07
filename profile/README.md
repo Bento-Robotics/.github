@@ -30,12 +30,18 @@ We are still learning how to make articulated tracks behave nicely, so Schäufel
 [Schäufele kanban/TODOs](https://github.com/orgs/Bento-Robotics/projects/3)  
 <img src="https://raw.githubusercontent.com/Bento-Robotics/Schaeufele/refs/heads/main/Schaeufele.jpg" height="240">
 
+Frustrated with Schäufele's hard-to-repair design, we decided to rebuild the Bento-Box from scratch.  
+Introducting The Bento Box Neo, a distillation of all the good choices made in the Bento-Box.  
+[Bento Box Neo repository](https://github.com/Bento-Robotics/Bento-Box-Neo)  
+[Bento Box Neo wiki](https://github.com/Bento-Robotics/Bento-Box-Neo/wiki)  
+[Bento Box Neo kanban/TODOs](https://github.com/orgs/Bento-Robotics/projects/1)  
+<img src="https://raw.githubusercontent.com/Bento-Robotics/Bento-Box-Neo/refs/heads/main/Bento-Box-Neo.jpg" height="240">
 
-## What happened to team Bento?
+## What happened to WLS Robotics?
 
-To compete at the Robocup RMRC and German open with two robots, Bento-Box and Schäufele, we needed two teams.  
-And to clarify our connection to our school, we rebranded to WLS Robotics, with the sub-teams Willi-Bots (Schäufele) and Team Bento (Bento-Box) both competing.
-
+Originally we changed names and competed with 2 robots simultaneously, but "WLS Robotics",  
+even though it makes our affiliation with school clear, never really caught on.  
+Everyone still preferred and used "Team Bento". So we simply changed it back and made a better logo.
 
 ## Our software layout
 
